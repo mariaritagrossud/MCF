@@ -1,0 +1,13 @@
+total 280
+-rwxr-xr-x  1 mariarita  staff  49464 18 Dic 19:33 a.out
+-rw-r--r--  1 mariarita  staff    394 18 Dic 21:24 serie.c
+-rwxr-xr-x  1 mariarita  staff  16496 18 Dic 21:24 libserie.so
+-rw-r--r--@ 1 mariarita  staff   6123 18 Dic 21:38 mycamera.c
+-rwxr-xr-x  1 mariarita  staff  33640 18 Dic 21:38 libmycamera.so
+-rw-r--r--  1 mariarita  staff    187 19 Dic 11:22 Esercizio1.py
+-rw-r--r--  1 mariarita  staff    566 19 Dic 12:44 serie.py
+-rw-r--r--  1 mariarita  staff    699 19 Dic 13:02 mycamera.py
+drwxr-xr-x  5 mariarita  staff    160 19 Dic 13:03 __pycache__
+-rw-r--r--  1 mariarita  staff   1062 19 Dic 20:08 Esercizio2.py
+-rw-r--r--  1 mariarita  staff   1389 21 Dic 18:12 prova.txt~
+-rw-r--r--  1 mariarita  staff      0 21 Dic 18:15 prova.txt
